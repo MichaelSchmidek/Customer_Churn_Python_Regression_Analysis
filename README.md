@@ -1,4 +1,4 @@
-# Telco Customer Churn Analysis
+# Telco Customer Churn Analysis (Regression)
 
 The purpose of this project is to explore a customer database from Kaggle using Python in order to draw actionable insights about customer churn.
 
